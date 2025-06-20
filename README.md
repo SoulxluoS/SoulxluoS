@@ -12,7 +12,7 @@ In the fall of 2025, I will be enrolling in distance learning at TUSUR Universit
 Java Core | Git | Gradle | Intellij IDEA
 
 ### Learning Stack: 
-Algorithms | Data Structures | Unit Testing | Mock Testing | Spring | Spring Bolt | Spring Data | Spring Security | Maven | Databases and SQL| Apache Kafka | Spring Cloud | Docker
+Algorithms | Data Structures | Unit Testing | Mock Testing | Spring | Spring Boot | Spring Data | Spring Security | Spring Cloud | Maven | Databases and SQL| Apache Kafka | Docker
 
 ## My humble beginnings...
 <div align="center">
