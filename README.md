@@ -2,17 +2,19 @@
 
 I am self-taught beginner developer in Java since 2023.
 
-I started my journey by modifying Minecraft. I'm currently focused on professional training. The goal is to master the profession as soon as possible in order to start gaining valuable work experience.
+I started my journey by modifying Minecraft. Currently, I am focused on professional development and the search for my first full-time job. My goal is to master the profession as soon as possible, so that I can start gaining valuable work experience.
 
-Studying at the Yandex Practicum "Java-developer" course since May 2025.
+### Education:
+I have been studying at the Yandex Practicum [Java-developer](https://practicum.yandex.ru/java-developer-plus/) course since May 2025. 
+In the fall of 2025, I will be enrolling in distance learning at TUSUR University to specialize in [Computer Hardware and Automated Systems Software](https://fdo.tusur.ru/directions/informatika-i-vycislitelnaia-texnika-programmnoe-obespecenie-sredstv-vycislitelnoi-texniki-i-avtomatizirovannyx-sistem).
 
 ### Studied Stack: 
-Java Core | GitHub | Git
+Java Core | Git | Gradle | Intellij IDEA
 
 ### Learning Stack: 
 Algorithms | Data Structures | Unit Testing | Mock Testing | Spring | Spring Bolt | Spring Data | Spring Security | Maven | Databases and SQL| Apache Kafka | Spring Cloud | Docker
 
-## My humble beginnings.
+## My humble beginnings...
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoulxluoS&theme=dark" width="400" />
   <a href="https://leetcode.com/Soul_luoS/"><img src="https://leetcard.jacoblin.cool/Soul_luoS?theme=dark" width="400" /></a>
