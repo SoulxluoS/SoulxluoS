@@ -2,7 +2,7 @@
 
 I am self-taught beginner developer in Java since 2023.
 
-I started my journey with Minecraft modification. Now he is focused on professional Now he is focused on professional learning. The goal is to enter the profession in the shortest possible time in order to start gaining valuable work experience.
+I started my journey by modifying Minecraft. I'm currently focused on professional training. The goal is to master the profession as soon as possible in order to start gaining valuable work experience.
 
 Studying at the Yandex Practicum "Java-developer" course since May 2025.
 
