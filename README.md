@@ -6,6 +6,7 @@ I started my journey with Minecraft modification. Now he is focused on professio
 
 Studying at the Yandex Practicum "Java-developer" course since May 2025.
 
+## My humble beginnings.
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoulxluoS&theme=dark" width="400" />
   <a href="https://leetcode.com/loginov-kirill/"><img src="https://leetcard.jacoblin.cool/Soul_luoS?theme=dark" width="400" /></a>
