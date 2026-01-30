@@ -7,17 +7,10 @@ I started my journey by modifying Minecraft. Currently, I am focused on professi
 ### Education:
 I have been studying at the Yandex Practicum [Java-developer](https://practicum.yandex.ru/java-developer-plus/) course since May 2025. [Practicum Profile](https://github.com/SoulxluoS-Practicum)
 
-In the fall of 2025, I will be enrolling in distance learning at TUSUR University to specialize in [Software and Automated Systems](https://fdo.tusur.ru/directions/informatika-i-vycislitelnaia-texnika-programmnoe-obespecenie-sredstv-vycislitelnoi-texniki-i-avtomatizirovannyx-sistem).
+I am receiving a remote higher education in TUSUR University to specialize in [Software and Automated Systems](https://fdo.tusur.ru/directions/informatika-i-vycislitelnaia-texnika-programmnoe-obespecenie-sredstv-vycislitelnoi-texniki-i-avtomatizirovannyx-sistem) with graduation time in 2028.
 
 ### Studied Stack: 
 Java Core | Git | Gradle | Intellij IDEA
 
 ### Learning Stack: 
 Algorithms | Data Structures | Unit Testing | Mock Testing | Spring | Spring Boot | Spring Data | Spring Security | Spring Cloud | Maven | Databases and SQL | Apache Kafka | Docker
-
-## My humble beginnings...
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoulxluoS&theme=dark" width="400" />
-  <a href="https://leetcode.com/Soul_luoS/"><img src="https://leetcard.jacoblin.cool/Soul_luoS?theme=dark" width="400" /></a>
-  <a href="https://www.codewars.com/users/YoungSoulluoS"><img src="https://www.codewars.com/users/YoungSoulluoS/badges/large" /></a>
-</div>
